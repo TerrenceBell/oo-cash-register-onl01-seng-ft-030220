@@ -35,3 +35,4 @@ end
     @total -= @price
   end
 end
+end
